@@ -1,6 +1,8 @@
 # LotteryNumberService
 
-This a simple service to generate lottery numbers for EUROJACKPOT, FINNISHLOTTO, VIKINGLOTTO if a lottery type is specified (by default one set of numbers is generated, but a user can also specify how many sets to be generated), and retrieve past winning numbers if the year, week and lottery type is specified.
+This application is implemented in [go](https://go.dev/) and deployed to [fly.io](https://fly.io/).
+
+### This a simple service to generate lottery numbers for EUROJACKPOT, FINNISHLOTTO, VIKINGLOTTO if a lottery type is specified (by default one set of numbers is generated, but a user can also specify how many sets to be generated), and retrieve past winning numbers if the year, week and lottery type is specified.
 
 example usage:
 
